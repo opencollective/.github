@@ -1,0 +1,7 @@
+{
+  "description": "Default preset for use with Open Collective repos",
+  "extends": [
+    "config:base",
+    ":preserveSemverRanges"
+  ]
+}
