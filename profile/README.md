@@ -6,7 +6,7 @@
 </div>
 
   <ul>
-    <li>Current Sprint: <a href="https://github.com/opencollective/opencollective/issues/5666">2022 Q2 cycle 2</a></li>
+    <li>Current Sprint: <a href="https://github.com/opencollective/opencollective/issues/5779">2022 Q3 cycle 1</a></li>
     <li>Ideas for Next Cycle: <a href="https://github.com/opencollective/opencollective/discussions/5741">2022 Q3 cycle 2</a></li>
     <li><a href="https://github.com/orgs/opencollective/projects/5">Cycle Planning & Weekly Board</a></li>
     <li><a href="https://github.com/opencollective/opencollective/issues">Issues Repository</a></li>
