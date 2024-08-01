@@ -1,0 +1,16 @@
+diff --git a/profile/README.md b/profile/README.md
+dizin f37a28d..30628b9 100644
+--- a/profil/README.md
++++ b/profil/README.md
+@@ -6,8 +6,8 @@
+ </div>
+ 
+   <ul>
+- <li>Mevcut Sprint: <a href="https://github.com/opencollective/opencollective/issues/5779">2022 Q3 döngüsü 1</a></li>
+- <li>Sonraki Döngü İçin Fikirler: <a href="https://github.com/opencollective/opencollective/discussions/5741">2022 Q3 döngüsü 2</a></li>
+- <li><a href="https://github.com/orgs/opencollective/projects/5">Döngü Planlaması ve Haftalık Pano</a></li>
++ <li>Mevcut Sprint: <a href="https://github.com/opencollective/opencollective/issues/5779">2022 3. Çeyrek Sprint 1</a></li>
++ <li>Sonraki Sprint İçin Fikirler: <a href="https://github.com/opencollective/opencollective/discussions/5741">2022 Q3 Sprint 2</a></li>
++ <li><a href="https://github.com/orgs/opencollective/projects/5">Sprint Planlama ve Haftalık Pano</a></li>
+     <li><a href="https://github.com/opencollective/opencollective/issues">Sorun Deposu</a></li>
+   </ul>
