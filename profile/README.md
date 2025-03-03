@@ -6,8 +6,8 @@
 </div>
 
 <ul>
-  <li>Current Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/59">2025 Q1 Sprint 1 - C1</a></li>
-  <li>Previous Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/57">2024 Q4 Sprint 2 - C8</a></li>
-  <li>Past Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/56">2024 Q4 Sprint 1 - C7</a></li>
+  <li>Current Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/61">2025 Q1 Sprint 1 - C2</a></li>
+  <li>Previous Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/59">2025 Q1 Sprint 1 - C1</a></li>
+  <li>Past Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/57">2024 Q4 Sprint 2 - C8</a></li>
   <li><a href="https://github.com/opencollective/opencollective/issues">Issues Repository</a></li>
 </ul>
