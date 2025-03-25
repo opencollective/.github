@@ -11,3 +11,5 @@
   <li>Past Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/57">2024 Q4 Sprint 2 - C8</a></li>
   <li><a href="https://github.com/opencollective/opencollective/issues">Issues Repository</a></li>
 </ul>
+
+For the new web3 branch of open collective, see https://opencollective.xyz
