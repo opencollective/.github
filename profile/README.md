@@ -6,10 +6,10 @@
 </div>
 
 <ul>
-  <li>Current Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/62">2025 - C3</a></li>
-  <li>Previous Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/61">2025 - C2</a></li>
-  <li>Past Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/59">2025 - C1</a></li>
+  <li>Current Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/63">2025 - C4</a></li>
+  <li>Previous Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/62">2025 - C3</a></li>
+  <li>Past Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/61">2025 - C2</a></li>
   <li><a href="https://github.com/opencollective/opencollective/issues">Issues Repository</a></li>
 </ul>
 
-For the new web3 branch of open collective, see https://opencollective.xyz
+For the new web3 branch of Open Collective, see https://opencollective.xyz.
