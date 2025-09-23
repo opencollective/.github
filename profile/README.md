@@ -6,9 +6,9 @@
 </div>
 
 <ul>
-  <li>Current Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/64">2025 - C5</a></li>
-  <li>Previous Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/63">2025 - C4</a></li>
-  <li>Past Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/62">2025 - C3</a></li>
+  <li>Current Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/65">2025 - C6</a></li>
+  <li>Previous Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/64">2025 - C5</a></li>
+  <li>Past Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/63">2025 - C4</a></li>
   <li><a href="https://github.com/opencollective/opencollective/issues">Issues Repository</a></li>
 </ul>
 
