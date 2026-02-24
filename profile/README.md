@@ -6,7 +6,7 @@
 </div>
 
 <ul>
-  <li>Current Cycle: <a href="https://github.com/orgs/opencollective/projects/5/views/67">2026 - C1</a></li>
+  <li><a href="https://github.com/orgs/opencollective/projects/5">Prioritization board</a></li>
   <li><a href="https://github.com/opencollective/opencollective/issues">Issues Repository</a></li>
 </ul>
 
